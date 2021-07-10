@@ -1,0 +1,79 @@
+.entergiveawaycard-form-labels {
+    color: white;
+}
+
+.entergiveawaycard-form-inputs {
+    background: linear-gradient(200deg, rgb(4, 4, 214), black, rgb(4, 4, 214));
+    padding: 5px;
+    width: 60%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    color: #fff;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.entergiveawaycard-form-textarea {
+    background: linear-gradient(200deg, rgb(4, 4, 214), black, rgb(4, 4, 214));
+    padding: 5px;
+    width: 60%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.card-container6 {
+    height: 475px;
+    width: 600px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    background: black;
+}
+
+.card-container6:hover {
+    height: 475px;
+    width: 600px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    background: black;
+}
+
+.underline6 {
+    height: 04px;
+    width: 18rem;
+    background-color: #fff;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    }
+
+.image-container6 img{
+overflow: hidden;
+height: 200px;
+width: 600px;
+}
+
+.image-container6:hover img{
+overflow: hidden;
+height: 200px;
+width: 600px;
+}
+
+.newsletter-inputs {
+background: linear-gradient(200deg, rgb(4, 4, 214), black, rgb(4, 4, 214));
+  padding: 5px;
+  width: 100%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.newsletter-label {
+margin-top: -30px;
+margin-left: 10px;
+    display: flex;
+    justify-Content: center;
+    align-Items: center;
+color: black;
+}

@@ -1,0 +1,89 @@
+.newsletter {
+      margin-top: 550px;
+      display: flex;
+      justify-Content: center;
+      align-Items: center;
+      background: grey;
+}
+
+.newsletter-form-labels {
+  color: white;
+}
+
+.newsletter-form-inputs {
+  background: linear-gradient(200deg, rgb(4, 4, 214), black, rgb(4, 4, 214));
+  padding: 10px;
+  color: #fff;
+  width: 65%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.newsletter-form-textarea {
+  background: linear-gradient(200deg, rgb(4, 4, 214), black, rgb(4, 4, 214));
+  padding: 5px;
+  width: 60%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.card-container5 {
+  align-items: center;
+  justify-content: center;
+  height: 175px;
+  width: 600px;
+  overflow: hidden;
+  box-shadow: 0px 0px 15px -5px;
+  background: black;
+}
+
+.underline5 {
+  height: 04px;
+  width: 18rem;
+  background-color: #fff;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.card-container5:hover {
+  height: 175px;
+  width: 600px;
+  overflow: hidden;
+  box-shadow: 0px 0px 15px -5px;
+  background: black;
+}
+
+.image-container5 img{
+  overflow: hidden;
+  height: 200px;
+  width: 600px;
+}
+
+.image-container5:hover img{
+  overflow: hidden;
+  height: 200px;
+  width: 600px;
+}
+
+.newsletter-inputs {
+  background: linear-gradient(200deg, rgb(4, 4, 214), black, rgb(4, 4, 214));
+    padding: 5px;
+    width: 100%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.newsletter-label {
+  margin-top: -30px;
+  margin-left: 10px;
+      display: flex;
+      justify-Content: center;
+      align-Items: center;
+  color: black;
+}
