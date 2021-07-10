@@ -5,6 +5,12 @@ object-assign
 */
 
 /*!
+  Copyright (c) 2018 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/*!
  * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
@@ -23,6 +29,74 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
+
+/*! ./Button */
+
+/*! ./ButtonGroup */
+
+/*! ./ButtonToolbar */
+
+/*! ./constants */
+
+/*! ./deprecate */
+
+/*! ./styles/index.styl */
+
+/*! classnames */
+
+/*! exports provided: Button, ButtonGroup, ButtonToolbar */
+
+/*! exports provided: btnSizes, btnStyles */
+
+/*! exports provided: default */
+
+/*! no static exports found */
+
+/*! prop-types */
+
+/*! react */
+
+/*! react-bootstrap-buttons v1.0.0 | (c) 2019 Cheton Wu <cheton@gmail.com> | MIT | https://github.com/cheton/react-bootstrap-buttons */
+
+/*!**********************!*\
+    !*** ./src/index.js ***!
+    \**********************/
+
+/*!************************!*\
+    !*** ./src/Button.jsx ***!
+    \************************/
+
+/*!************************!*\
+    !*** external "react" ***!
+    \************************/
+
+/*!**************************!*\
+    !*** ./src/constants.js ***!
+    \**************************/
+
+/*!**************************!*\
+    !*** ./src/deprecate.js ***!
+    \**************************/
+
+/*!*****************************!*\
+    !*** ./src/ButtonGroup.jsx ***!
+    \*****************************/
+
+/*!*****************************!*\
+    !*** external "classnames" ***!
+    \*****************************/
+
+/*!*****************************!*\
+    !*** external "prop-types" ***!
+    \*****************************/
+
+/*!*******************************!*\
+    !*** ./src/ButtonToolbar.jsx ***!
+    \*******************************/
+
+/*!*******************************!*\
+    !*** ./src/styles/index.styl ***!
+    \*******************************/
 
 /** @license React v0.20.2
  * scheduler.production.min.js
